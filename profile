@@ -1,2 +1,0 @@
-
-DrTech-Ventures/.github
